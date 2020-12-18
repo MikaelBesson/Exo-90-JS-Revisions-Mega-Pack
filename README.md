@@ -8,7 +8,9 @@ Une fois l'exercice terminé, pusher sur un repo github et envoyer le lien du re
 - Créer une variable appelé x, lui assigner la valeur suivante : 50
 
 - Créer un div ou un span sur la page html ayant pour id "demo"
-- Créer deux variables appelés z et w permettant de calculer 5+10, afficher le résultat de l'opération en utilisant la phrase suivante dans l'élément ayant pour id "demo" : "z vaux 5, w vaux 10, le résultat est : {z+w} ", vous utiliserez les valeurs des variables dans la phrase ( vous n'écrivez pas directement la phrase telle quelle )
+-  Créer deux variables appelés z et w permettant de calculer 5+10, afficher le résultat de l'opération en utilisant
+  la phrase suivante dans l'élément ayant pour id "demo" : "z vaux 5, w vaux 10, le résultat est: {z+w} ", 
+  vous utiliserez les valeurs des variables dans la phrase ( vous n'écrivez pas directement la phrase telle quelle )
  - Créer une variable appelé d et assigner le résultat de z+w, afficher la valeur de d dans une boite d'alerte
 
 - En une seule ligne de code, déclarer trois variables : prenom = "John" nom = "doe" age = 35
@@ -59,8 +61,7 @@ directement )
 
 - Ajouter à la fin du tableau listeVoitures la valeur suivante : "Ferrari" en utilisant la fonctioon adéquate (
 ne modifiez pas le tableau directement )
-
-
+  
 
 - Créer une variable appelée rNumber, lui associer comme valeur un nombre aléatoire généré avec la méthode javascript
 appropriée
